@@ -9,7 +9,7 @@ pip3 install -U python-dotenv
 ```
 ## Setup .env file
 ```
-DISCORD_TOKEN={your_discord_token}
+DISCORD_TOKEN={your_discord_bot_token}
 ```
 ## Run
 ```
